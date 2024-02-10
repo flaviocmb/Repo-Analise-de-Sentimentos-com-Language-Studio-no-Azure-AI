@@ -38,7 +38,7 @@ Há duas maneiras apresentadas para criar um serviço de fala:
 - Criar um recurso Speech.
 - Criar um recurso Azure AI services.
 
-Crie um recurso Speech diretamente no [**Azure AI Speech Studio**](https://speech.microsoft.com) como apresentado no primeiro link útil para ter acesso ao **Try out Real-time speech to text** que vamos utilizar para a transcrição.
+Crie um recurso Speech diretamente no [Azure AI Speech Studio](https://speech.microsoft.com) como apresentado no primeiro link útil para ter acesso ao **Try out Real-time speech to text** que vamos utilizar para a transcrição.
 
 ### Try out Real-time speech to text
 
