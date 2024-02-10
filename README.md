@@ -25,13 +25,6 @@ Chegou a hora de você construir um portfólio ainda mais rico e impressionar fu
 
 # Crie um arquivo chamado readme.md , deixe alguns prints descreva o processo, alguns insights e possibilidades que você aprendeu durante o conteúdo após a IA analisar suas sentenças.
 
-O serviço **Azure AI Speech** transcreve a fala em texto e o texto em fala audível. 
-
-Exemplos práticos:
-
-* Transcrever notas de reuniões.
-* Gerar texto a partir da gravação de entrevistas.
-
 #### Insights e possibilidades
 
 Baseado no [outro exercício](https://github.com/flaviocmb/Repo-Reconhecimento-Facial-e-transforma-o-de-imagens-em-Dados-no-Azure-ML) onde falei sobre a possibilidade de monitorar os pets em casa, aqui o conceito é utilizar um recurso bidirecional de áudio (ouvir e falar) por meio de um dispositivo de monitoramento inteligente projetado para ajudar os proprietários de pets ou pessoas enfermas ou outros cuidados, permitindo estarem conectados quando estão longe de casa.
@@ -93,8 +86,10 @@ O target, o protagonista da conversa, o meu pet, foi detectado corretamente pela
 #### Sentenças
 
 | Sentença 1 | Sentença 2 | Sentença 3 | Sentença 4 | Sentença 5 | Sentença 6 | Sentença 7 |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 |![1](./inputs/imagens/sentencas/sentenca1.png)|![2](./inputs/imagens/sentencas/sentenca2.png)|![3](./inputs/imagens/sentencas/sentenca3.png)|![4](./inputs/imagens/sentencas/sentenca4.png)|![5](./inputs/imagens/sentencas/sentenca5.png)|![6](./inputs/imagens/sentencas/sentenca6.png)|![7](./inputs/imagens/sentencas/sentenca7.png)|
 
 
 | Sentença 8 | Sentença 9 | Sentença 10 | Sentença 11 | Sentença 12 | Sentença 13 | Sentença 14 |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 |![8](./inputs/imagens/sentencas/sentenca8.png)|![9](./inputs/imagens/sentencas/sentenca9.png)|![10](./inputs/imagens/sentencas/sentenca10.png)|![11](./inputs/imagens/sentencas/sentenca11.png)|![12](./inputs/imagens/sentencas/sentenca12.png)|![13](./inputs/imagens/sentencas/sentenca13.png)|![14](./inputs/imagens/sentencas/sentenca14.png)|
